@@ -1,0 +1,240 @@
+Component 0:
+KobeBryant
+SteveNovak
+KendrickPerkins
+PatConnaughton
+BrandonJennings
+JustinAnderson
+LorenzoBrown
+JamesHarden
+MauriceHarkless
+CJMcCollum
+
+Component 1:
+LouAmundson
+TonySnell
+DionWaiters
+SashaVujacic
+WillBarton
+AmirJohnson
+GaryNeal
+AnthonyTolliver
+MarcGasol
+DougMcDermott
+
+Component 2:
+NeneHilario
+TerrenceJones
+MettaWorld Peace
+BenoUdrih
+O.J.Mayo
+AndreMiller
+DwightPowell
+MikeConley
+AlonzoGee
+KembaWalker
+
+Component 3:
+JarellMartin
+JonLeuer
+AlHorford
+MylesTurner
+ShabazzNapier
+SashaVujacic
+JJHickson
+TylerEnnis
+ThaboSefolosha
+SolomonHill
+
+Component 4:
+PaulPierce
+PaulMillsap
+TimFrazier
+TiagoSplitter
+JordanClarkson
+BenoUdrih
+SashaVujacic
+ThaboSefolosha
+RobinLopez
+Karl-AnthonyTowns
+
+Component 5:
+TylerJohnson
+JeffTeague
+AveryBradley
+RussellWestbrook
+RayMcCallum
+VictorOladipo
+AmirJohnson
+JamesEnnis
+LaMarcusAldridge
+PJHairston
+
+Component 6:
+DarrenCollison
+ElliotWilliams
+BradleyBeal
+RoyHibbert
+ChrisBosh
+D'AngeloRussell
+RodneyHood
+TobiasHarris
+MarcGasol
+CameronPayne
+
+Component 7:
+NicolasBatum
+MylesTurner
+NoahVonleh
+KevinLove
+MitchMcGary
+DrewGooden
+GregMonroe
+DeMarcusCousins
+LaMarcusAldridge
+TristanThompson
+
+Component 8:
+JarnellStokes
+PaulMillsap
+JeffTeague
+WesleyJohnson
+JuliusRandle
+KembaWalker
+DavidLee
+DionWaiters
+JamesJones
+WillBarton
+
+Component 9:
+MirzaTeletovic
+JeffTeague
+MatthewDellavedova
+TimFrazier
+CodyZeller
+AnthonyTolliver
+TroyDaniels
+NorrisCole
+TiagoSplitter
+TiborPleiss
+
+Component 10:
+KlayThompson
+TyrekeEvans
+GregMonroe
+GordonHayward
+RayMcCallum
+DeJuanBlair
+LeBronJames
+AndreMiller
+ThomasRobinson
+SamDekker
+
+Component 11:
+TerrenceJones
+MikeConley
+GeorgeHill
+JoshRichardson
+JerianGrant
+D'AngeloRussell
+KJMcDaniels
+AmirJohnson
+MylesTurner
+MikeScott
+
+Component 12:
+KentaviousCaldwell-Pope
+AveryBradley
+SashaVujacic
+RussellWestbrook
+TobiasHarris
+RichardJefferson
+FestusEzeli
+QuincyAcy
+MatthewDellavedova
+JJRedick
+
+Component 13:
+MasonPlumlee
+DamienInglis
+PaulMillsap
+DeJuanBlair
+KennethFaried
+AnthonyTolliver
+AlexLen
+AlexisAjinca
+RoyHibbert
+MatthewDellavedova
+
+Component 14:
+EmmanuelMudiay
+ZachRandolph
+ElliotWilliams
+MettaWorld Peace
+RoyHibbert
+MylesTurner
+TyusJones
+TreyLyles
+CarmeloAnthony
+GaryNeal
+
+Component 15:
+SeanKilpatrick
+NikolaPekovic
+MirzaTeletovic
+VinceCarter
+AveryBradley
+PatrickPatterson
+JonLeuer
+KyleKorver
+TiagoSplitter
+JamalCrawford
+
+Component 16:
+RJHunter
+DeJuanBlair
+JohnWall
+MylesTurner
+JJRedick
+DelonWright
+VictorOladipo
+NoahVonleh
+IshSmith
+CaronButler
+
+Component 17:
+VinceCarter
+JoshRichardson
+BenoUdrih
+ElliotWilliams
+DerrickWilliams
+DirkNowitzki
+MettaWorld Peace
+JaredCunningham
+PatrickBeverley
+TarikBlack
+
+Component 18:
+DanteCunningham
+TerrenceRoss
+ArronAfflalo
+DwightHoward
+ZachRandolph
+MeyersLeonard
+BrandonBass
+AronBaynes
+RJHunter
+TonySnell
+
+Component 19:
+RasualButler
+AndersonVarejao
+TylerJohnson
+TayshaunPrince
+CodyZeller
+JaMychalGreen
+DonatasMotiejunas
+StephenCurry
+GlennRobinson
+KawhiLeonard
+
