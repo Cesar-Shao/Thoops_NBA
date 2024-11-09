@@ -1,0 +1,24 @@
+Component 0:
+KendrickPerkins
+SteveNovak
+PatConnaughton
+BrandonJennings
+KobeBryant
+JustinAnderson
+LorenzoBrown
+MauriceHarkless
+MeyersLeonard
+JamesHarden
+
+Component 1:
+SeanKilpatrick
+NikolaPekovic
+MirzaTeletovic
+AveryBradley
+PatrickPatterson
+VinceCarter
+JonLeuer
+KyleKorver
+TiagoSplitter
+TayshaunPrince
+

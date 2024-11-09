@@ -1,0 +1,84 @@
+Component 0:
+KobeBryant
+SteveNovak
+PatConnaughton
+KendrickPerkins
+BrandonJennings
+JustinAnderson
+LorenzoBrown
+JamesHarden
+MauriceHarkless
+CJMcCollum
+
+Component 1:
+SeanKilpatrick
+NikolaPekovic
+MirzaTeletovic
+AveryBradley
+JonLeuer
+VinceCarter
+PatrickPatterson
+KyleKorver
+TiagoSplitter
+JamalCrawford
+
+Component 2:
+AndersonVarejao
+RasualButler
+TylerJohnson
+TayshaunPrince
+CodyZeller
+JaMychalGreen
+DonatasMotiejunas
+StephenCurry
+GlennRobinson
+KawhiLeonard
+
+Component 3:
+DanteCunningham
+TerrenceRoss
+ArronAfflalo
+DwightHoward
+ZachRandolph
+MeyersLeonard
+BrandonBass
+BenoUdrih
+AronBaynes
+RJHunter
+
+Component 4:
+DamienInglis
+MasonPlumlee
+PaulMillsap
+DeJuanBlair
+AlexLen
+KennethFaried
+AnthonyTolliver
+RoyHibbert
+RonniePrice
+ZazaPachulia
+
+Component 5:
+KentaviousCaldwell-Pope
+KlayThompson
+RussellWestbrook
+MatthewDellavedova
+DarrunHilliard
+CarlLandry
+CaronButler
+RichardJefferson
+RayMcCallum
+WesleyJohnson
+
+Component 6:
+LouAmundson
+DarrenCollison
+JarnellStokes
+GaryNeal
+WillBarton
+MarcGasol
+DionWaiters
+VinceCarter
+JoshRichardson
+DougMcDermott
+
